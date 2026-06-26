@@ -6,8 +6,8 @@
     "type": "offline"
   },
   "server": {
-    "ip": "CroissantSMP-U7pf.aternos.me",
-    "port": 25653,
+    "ip": "AnonymousSMP.aternos.me",
+    "port": 22608,
     "version": "",
     "try-creative": false
   },
